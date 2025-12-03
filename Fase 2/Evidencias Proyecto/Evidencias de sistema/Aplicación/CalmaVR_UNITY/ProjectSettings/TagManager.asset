@@ -12,11 +12,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Hand
   - Water
   - UI
-  - 
-  - 
+  - Grab
+  - Button
   - 
   - 
   - 

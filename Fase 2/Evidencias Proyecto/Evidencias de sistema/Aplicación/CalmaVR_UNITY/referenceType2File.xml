@@ -176,7 +176,7 @@
   <TypeDate>
     <guid>8d95e1eb1a0a68f49beda8e2f1ff29b8</guid>
     <fileName>Assets/Scripts_Mine/controlCamara.cs</fileName>
-    <timeStamp>2025-10-23T03:08:04-03:00</timeStamp>
+    <timeStamp>2025-11-14T17:01:34-03:00</timeStamp>
     <typeFullName>
       <string>controlCamara</string>
     </typeFullName>
@@ -185,7 +185,7 @@
   <TypeDate>
     <guid>374ba8cc536b6ed49a78d3d8be50ed60</guid>
     <fileName>Assets/Scripts_Mine/ObjetoLunar.cs</fileName>
-    <timeStamp>2025-10-23T03:54:13-03:00</timeStamp>
+    <timeStamp>2025-11-14T17:01:34-03:00</timeStamp>
     <typeFullName>
       <string>ObjetoLunar</string>
     </typeFullName>
@@ -194,7 +194,7 @@
   <TypeDate>
     <guid>f5b1a7e5775426241aff62e6be6e78a5</guid>
     <fileName>Assets/Scripts_Mine/RadioSystem.cs</fileName>
-    <timeStamp>2025-10-16T11:58:22-03:00</timeStamp>
+    <timeStamp>2025-11-25T17:16:01.8348962-03:00</timeStamp>
     <typeFullName>
       <string>RadioSystem</string>
     </typeFullName>
@@ -248,7 +248,7 @@
   <TypeDate>
     <guid>2bbf92bea0c19304087debcfdd3882ba</guid>
     <fileName>Assets/Scripts_Mine/Cuestionario/Question.cs</fileName>
-    <timeStamp>2025-11-06T20:31:18.3520617-03:00</timeStamp>
+    <timeStamp>2025-11-07T11:55:46.7867099-03:00</timeStamp>
     <typeFullName>
       <string>Question</string>
     </typeFullName>
@@ -257,7 +257,7 @@
   <TypeDate>
     <guid>5c77a51abc4f0c2428c8a977e35f613b</guid>
     <fileName>Assets/Scripts_Mine/Cuestionario/QuestionnaireData.cs</fileName>
-    <timeStamp>2025-10-08T23:55:11.6538383-03:00</timeStamp>
+    <timeStamp>2025-11-11T13:37:21.2787-03:00</timeStamp>
     <typeFullName>
       <string>QuestionnaireData</string>
     </typeFullName>
@@ -266,7 +266,7 @@
   <TypeDate>
     <guid>afd638e037451974dbaeb9415634e597</guid>
     <fileName>Assets/Scripts_Mine/Cuestionario/QuestionnaireManager.cs</fileName>
-    <timeStamp>2025-11-06T20:31:25.5384299-03:00</timeStamp>
+    <timeStamp>2025-11-11T13:40:10.4635669-03:00</timeStamp>
     <typeFullName>
       <string>QuestionnaireManager</string>
     </typeFullName>
@@ -275,7 +275,7 @@
   <TypeDate>
     <guid>fb0a5038ffa3f7543a95f5930f57055d</guid>
     <fileName>Assets/Scripts_Mine/Escenario_Lunar/MusicaEscenario.cs</fileName>
-    <timeStamp>2025-10-23T04:23:40-03:00</timeStamp>
+    <timeStamp>2025-11-14T17:01:34-03:00</timeStamp>
     <typeFullName>
       <string>MusicaEscenario</string>
     </typeFullName>
@@ -284,7 +284,7 @@
   <TypeDate>
     <guid>8b25aa49fa3627042b9efe68b4e1df3e</guid>
     <fileName>Assets/Scripts_Mine/Escenario_Lunar/player_script.cs</fileName>
-    <timeStamp>2025-10-22T18:16:26-03:00</timeStamp>
+    <timeStamp>2025-11-14T17:01:34-03:00</timeStamp>
     <typeFullName>
       <string>player_script</string>
     </typeFullName>
@@ -329,9 +329,9 @@
   <TypeDate>
     <guid>455fa8bf661f66349bdf99715085dd1e</guid>
     <fileName>Assets/Scripts_Mine/PizzarraScripts/ColorPicker.cs</fileName>
-    <timeStamp>2025-11-06T20:05:57.8714844-03:00</timeStamp>
+    <timeStamp>2025-11-07T12:25:52.6932218-03:00</timeStamp>
     <typeFullName>
-      <string>ColorPicker</string>
+      <string>ColorPickerXR</string>
     </typeFullName>
     <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
   </TypeDate>
@@ -347,7 +347,7 @@
   <TypeDate>
     <guid>9fd768d4a6d0f104c930c7a7fe4acb43</guid>
     <fileName>Assets/Scripts_Mine/PizzarraScripts/WhiteboardMarker.cs</fileName>
-    <timeStamp>2025-11-06T19:35:01.9513042-03:00</timeStamp>
+    <timeStamp>2025-11-07T12:58:15.0883226-03:00</timeStamp>
     <typeFullName>
       <string>WhiteboardMarkerXR</string>
     </typeFullName>
@@ -374,7 +374,7 @@
   <TypeDate>
     <guid>f195844282b2d2545ba3a32dd72f63c8</guid>
     <fileName>Assets/Scripts_Mine/Therapy/BreathingSequence.cs</fileName>
-    <timeStamp>2025-10-12T22:36:05.8133993-03:00</timeStamp>
+    <timeStamp>2025-11-27T12:53:38.780663-03:00</timeStamp>
     <typeFullName>
       <string>BreathingSequence</string>
     </typeFullName>
@@ -506,5 +506,59 @@
     <fileName>Assets/Samples/XR Interaction Toolkit/2.6.4/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs</fileName>
     <timeStamp>2025-10-16T11:58:21-03:00</timeStamp>
     <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2dec36bf60e33074e8bf95ac66aa6eab</guid>
+    <fileName>Assets/Prefab_Mine/FidgetSpinner/SpinnerController.cs</fileName>
+    <timeStamp>2025-10-19T17:18:34-03:00</timeStamp>
+    <typeFullName>
+      <string>VRSpinnerDualPro</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a8d9599e7d221b84ab492af22b451467</guid>
+    <fileName>Assets/Scripts_Mine/Escenario_Lunar/fadeCamara.cs</fileName>
+    <timeStamp>2025-11-14T18:52:37.2789921-03:00</timeStamp>
+    <typeFullName>
+      <string>fadeCamara</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>321487b2e37311c4e9dbd423acd006a1</guid>
+    <fileName>Assets/Scripts_Mine/Radio/ButtonPressAnimation.cs</fileName>
+    <timeStamp>2025-11-25T17:16:11.9000275-03:00</timeStamp>
+    <typeFullName>
+      <string>ButtonPressAnimation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c711b3374aa58614bbff29e96a426a00</guid>
+    <fileName>Assets/Scripts_Mine/Recordatorio/TimedAudioPlayer.cs</fileName>
+    <timeStamp>2025-11-27T13:02:10.0704484-03:00</timeStamp>
+    <typeFullName>
+      <string>TimedAudioPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba3f6b27e4da42c41a1b7abe77d6610c</guid>
+    <fileName>Assets/Prefab_Mine/Piano/Scripts/FingerProximityExtendRigged.cs</fileName>
+    <timeStamp>2025-10-31T19:59:55-03:00</timeStamp>
+    <typeFullName>
+      <string>FingerProximityExtendRigged</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5c2584c7a7fcd14dac590e98b5a7fb9</guid>
+    <fileName>Assets/Prefab_Mine/Piano/Scripts/TeclaPiano.cs</fileName>
+    <timeStamp>2025-10-31T17:48:13-03:00</timeStamp>
+    <typeFullName>
+      <string>VRPianoKey</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
   </TypeDate>
 </ArrayOfTypeDate>
